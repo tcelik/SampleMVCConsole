@@ -1,15 +1,18 @@
 # SampleMVCConsole
 Konsol uygulamanızda MVC tasarım desenini kullanmaya ne dersiniz?
 
-dao\n
-dal
-service
-controller
-util
-application
-view
-model
-viewmodel
+dao<br/>
+dal<br/>
+service<br/>
+controller<br/>
+util<br/>
+application<br/>
+view<br/>
+model<br/>
+viewmodel<br/>
+handler<br/>
+server<br/>
+client<br/>
 
 
 1. Kontroller kontrol eder.
