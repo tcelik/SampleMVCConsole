@@ -1,7 +1,7 @@
 # SampleMVCConsole
 Konsol uygulamanızda MVC tasarım desenini kullanmaya ne dersiniz?
 
-dao
+dao\n
 dal
 service
 controller
